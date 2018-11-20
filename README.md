@@ -1,1 +1,1 @@
-# bootload-io.github.io
+# landing page
